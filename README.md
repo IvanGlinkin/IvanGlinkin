@@ -1,5 +1,5 @@
 ### Hi there, I'm Ivan Glinkin - Cyber Security Analyst 👋
-OSCP, Top 10 Global CEH (Master), CNDA, CND
+![](https://www.ivanglinkin.com/wp-content/uploads/2021/03/sign.png)
 
 8+ years combined operational work experience in penetration tests of enterprise networks and web application, physical social engineering and escalating the privileges.
 
