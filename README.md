@@ -21,6 +21,6 @@ Feel free to ping me by one of these ways:
 
 ☑️ mail@ivanglinkin.com
 
-☑️ Donate me: [https://paypal.me/ivanglinkin?country.x=US&locale.x=en_US](PayPal)
+☑️ Donate me: [PayPal](https://paypal.me/ivanglinkin?country.x=US&locale.x=en_US)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanGlinkin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
