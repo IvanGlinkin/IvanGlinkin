@@ -14,7 +14,7 @@ Knowledge of Bash Scripting, PHP, SQL, Python and C-based program languages allo
 
 Passed both the CEH knowledge-based MCQ and the CEH Practical exam on 92,8% and 90% respectively allowed me to become the TOP 10 in the World Global Ethical Hacking LeaderBoard!
 
-***I am the offensive security and my goal does not end at gaining full access – that is only a starting point.
+***I am the offensive security and my goal does not end at gaining full access – that is only a starting point***
 
 
 ![](https://www.ivanglinkin.com/wp-content/uploads/2021/03/sign.png)
