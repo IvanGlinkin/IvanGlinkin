@@ -1,10 +1,10 @@
 ### Hi there, I'm Ivan Glinkin - Cyber Security Analyst 👋
-![](https://www.ivanglinkin.com/wp-content/uploads/2021/03/sign.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivanglinkin/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.ivanglinkin.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/glinkinivan)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/glinkinivan)
+[![Telegram Badge](https://img.shields.io/badge/donate-Paypal?style=flat-square&logo=PayPal&logoColor=white)](https://www.paypal.com/paypalme/ivanglinkin)
 
 8+ years combined operational work experience in penetration tests of enterprise networks and web application, physical social engineering and escalating the privileges.
 
@@ -27,3 +27,5 @@ Feel free to ping me by one of these ways:
 ☑️ mail@ivanglinkin.com
 
 ☑️ Donate me: [PayPal](https://paypal.me/ivanglinkin?country.x=US&locale.x=en_US)
+
+![](https://www.ivanglinkin.com/wp-content/uploads/2021/03/sign.png)
