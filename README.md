@@ -17,4 +17,4 @@ Passed both the CEH knowledge-based MCQ and the CEH Practical exam on 92,8% and 
 ***I am the offensive security and my goal does not end at gaining full access – that is only a starting point***
 
 
-![](https://www.ivanglinkin.com/wp-content/uploads/2022/08/mail_sign.png)
+![](https://www.ivanglinkin.com/wp-content/uploads/2021/03/sign.png)
