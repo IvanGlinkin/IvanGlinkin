@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=mozilla&logoColor=white)](https://www.ivanglinkin.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/glinkinivan)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/glinkinivan)
-[![PayPal Badge](https://img.shields.io/badge/donate-Paypal-white?style=flat-square&logo=PayPal)](https://www.paypal.com/paypalme/ivanglinkin)
+[![PayPal Badge](https://img.shields.io/badge/donate-Paypal-white?style=flat-square&logo=PayPal)](https://www.paypal.com/paypalme/iglinkin)
 
 8+ years combined operational work experience in penetration tests of enterprise networks and web application, physical social engineering and escalating the privileges.
 
