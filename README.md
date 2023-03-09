@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/glinkinivan)
 [![PayPal Badge](https://img.shields.io/badge/donate-Paypal-white?style=flat-square&logo=PayPal)](https://www.paypal.com/paypalme/iglinkin)
 
-8+ years combined operational work experience in penetration tests of enterprise networks and web application, physical social engineering and escalating the privileges.
+9+ years combined operational work experience in penetration tests of enterprise networks and web application, physical social engineering and escalating the privileges.
 
 As a member of the Enterprise Security and Risk Team, I conduct enterprise wide security risk assessments by infiltrating its systems and breach its physical perimeters. This highlights gaps in the organization’s technical security that require fixing as well as being involved in executing the security awareness plan.
 
