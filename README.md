@@ -12,8 +12,8 @@ As an active member of the Cyber Security community, I have proven my skills in 
 
 Knowledge of Bash Scripting, PHP, SQL, Python and C-based program languages allows me to create my own applications for automation and optimization company’s security. Fast Google Dorks Scan, AutoSUID and Domain checker are some of my applications, which are widely recognized by big vendors like Splunk, Hakin9 and KitPloit.
 
-In addition to my bug bounty and application development skills, I stay up to date with the latest industry standards and best practices by continuously pursuing professional education and certification. I hold several certifications such as the Certified Chief Information Security Officer (CCISO), EC-Council Information Security Manager (EISM), Offensive Security Certified Professional (OSCP), Certified Ethical Hacker (Master), and Certified Network Defense Architect (CNDA).
+In addition to my bug bounty and application development skills, I stay up to date with the latest industry standards and best practices by continuously pursuing professional education and certification. I hold several certifications such as the Certified Chief Information Security Officer (CCISO), EC-Council Information Security Manager (EISM), Certified in Cybersecurity (CC), Offensive Security Certified Professional (OSCP), Certified Ethical Hacker (Master), and Certified Network Defense Architect (CNDA).
 
 ***As an information security expert, my goal is to improve security by identifying vulnerabilities and implementing effective solutions.***
 
-![](https://github.com/IvanGlinkin/media_support/blob/main/Signature.png?raw=true)
+![](https://github.com/IvanGlinkin/media_support/blob/main/mail_sign.png?raw=true)
