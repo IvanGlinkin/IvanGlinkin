@@ -1,4 +1,4 @@
-### Hi, I'm Ivan and I'm an Information / Cyber Security Expert
+### Hi, I'm Ivan and I'm an Cyber Security Expert
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivanglinkin/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=mozilla&logoColor=white)](https://www.ivanglinkin.com/)
