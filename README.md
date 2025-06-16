@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivanglinkin/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=mozilla&logoColor=white)](https://hydrattack.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/EASM_HydrAttack)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/EASM_HydrAttack))
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/EASM_HydrAttack)
 
 Over 10 years of experience working in cyber security including penetration testing of enterprise networks and web application, establishing information security programs and ensuring the CIA as well as managing mature information security policies, governance, awareness, vulnerability and risk assessment and remediation.
 
