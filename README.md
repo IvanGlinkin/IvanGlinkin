@@ -7,6 +7,8 @@
 
 Over 10 years of experience working in cyber security including penetration testing of enterprise networks and web application, establishing information security programs and ensuring the CIA as well as managing mature information security policies, governance, awareness, vulnerability and risk assessment and remediation.
 
+Founder of External Attack Surface Management system HydrAttack. EASM HydrAttack helps organizations continuously monitor, analyze, and manage their external attack surfaces. Deploying and optimizing SaaS-based platforms to provide real-time insights, reduce exposure, and enhance cybersecurity postures
+
 As an active member of the Cyber Security community, I have proven my skills in ethical hacking by identifying and responsibly disclosing security bugs: remote code execution on Stanford, HackTheBox, New York University and Martinos Center for Biomedical Imaging (Massachusetts General Hospital), web admin on Cambridge and MIT universities; McAfee antivirus bypass.
 
 Knowledge of Bash Scripting, PHP, SQL, Python and C-based program languages allows me to create my own applications for automation and optimization company’s security. Fast Google Dorks Scan, AutoSUID and Domain checker are some of my applications, which are widely recognized by big vendors like Splunk, Hakin9 and KitPloit.
